@@ -13,3 +13,5 @@
 - Код відформатований за допомогою Prettier.
 
 ![GitHub actions settings](./assets/text-1.png)
+
+![Demonstration](./assets/modal-gallery-1.mp4)
