@@ -23,3 +23,5 @@
 ![GitHub actions settings](./assets/text-3.png)
 
 ![GitHub actions settings](./assets/text-4.png)
+
+![Demonstration](./assets/modal-gallery-2.gif)
