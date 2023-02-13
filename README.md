@@ -19,3 +19,7 @@
 ![GitHub actions settings](./assets/text-2.png)
 
 ![GitHub actions settings](./assets/text-3.png)
+
+![GitHub actions settings](./assets/text-3.png)
+
+![GitHub actions settings](./assets/text-4.png)
