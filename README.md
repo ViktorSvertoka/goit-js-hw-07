@@ -17,3 +17,5 @@
 ![Demonstration](./assets/modal-gallery-1.gif)
 
 ![GitHub actions settings](./assets/text-2.png)
+
+![GitHub actions settings](./assets/text-3.png)
