@@ -14,8 +14,8 @@ body {
 }
 
 body {
-  margin: auto;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  /* margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif; */
   overflow: auto;
   background: linear-gradient(
     315deg,
@@ -109,11 +109,11 @@ a {
 }
 
 .custom-btn {
-  width: 220px;
+  width: 190px;
   height: 40px;
   color: #fff;
   border-radius: 5px;
-  padding: 10px 25px;
+  padding: 10px 15px;
   font-family: 'Lato', sans-serif;
   font-weight: 500;
   background: transparent;
