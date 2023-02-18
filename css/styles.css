@@ -90,3 +90,15 @@
 .back-btn:active {
   top: 2px;
 }
+
+.sl-image {
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  border-radius: 4px;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.sl-wrapper .sl-image .sl-caption {
+  background: rgba(255, 255, 255, 0.9);
+  color: black;
+}
